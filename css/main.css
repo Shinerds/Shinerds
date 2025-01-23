@@ -1238,7 +1238,7 @@ h1.large .typed-cursor::before {
     margin-top: -1.4rem;
   }
   .headline__decorated::before {
-    content: url("../img/svg/80x80-coming-soon-filled.svg");
+    content: url("../img/svg/80x80-coming-soon-filled.svg"); 
     padding-right: 2rem;
     margin-top: -1.4rem;
     max-height: 80px;
