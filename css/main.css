@@ -4533,4 +4533,14 @@ form .inputs-description {
 .mobi-hide {
   display: none;
 }
+.for-desktop-only {
+  display: none;
+}
+.for-mobile-only {
+  display: block;
+}
+}
+
+.for-mobile-only {
+  display: none;
 }
