@@ -4533,11 +4533,9 @@ form .inputs-description {
 .mobi-hide {
   display: none;
 }
-.for-desktop-only {
-  display: none !important;
-}
+
 .for-mobile-only {
-  display: block !important;
+  display: none !important;
 }
 }
 
