@@ -178,7 +178,7 @@ $(function() {
   // --------------------------------------------- //
   // KBW-Countdown Start
   // --------------------------------------------- //
-  $('#countdown').countdown({until: $.countdown.UTCDate(+10, 2025, 5, 27), format: 'D'});
+  $('#countdown').countdown({until: $.countdown.UTCDate(+10, 2025, 10, 27), format: 'D'});
   // --------------------------------------------- //
   // KBW-Countdown End
   // --------------------------------------------- //
